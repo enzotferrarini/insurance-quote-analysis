@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "prospect_count": 100,
+  "start_date": "2025-09-01",
+  "snapshot_date": "2026-08-31",
+  "synthetic": true,
+  "generator_version": 1,
+  "currency": "USD",
+  "premium_unit": "annualized cents",
+  "raw_sha256": "d28603099820ac9bebc82708cc5ddc1242efb5455c9b222a5aed05f3b81e10a6",
+  "row_counts": {
+    "prospects": 100,
+    "carriers": 6,
+    "coverages": 5,
+    "quotes": 329,
+    "quote_coverages": 610
+  }
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.cache/
+build/
+data/demo/
+data/processed/
+*.db-journal
+*.db-wal
+*.db-shm

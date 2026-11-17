@@ -1,0 +1,6 @@
+filter,quote_count,quoted_prospects,accepted_prospects,accepted_quotes,non_pending_quotes,result
+All quotes,329,90,42,42,286,PASS
+Fictional Alder,53,53,3,3,46,PASS
+Auto,192,52,22,22,167,PASS
+2026-08,14,5,4,4,12,PASS
+No matching rows,0,0,0,0,0,PASS
